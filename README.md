@@ -1,11 +1,6 @@
 # 🚀 Projetos DevStart
 
-Projetos desenvolvidos durante o programa **DEV Start**, com foco em lógica de programação e JavaScript.
-
-## 📚 Conteúdo
-- ✔ Gerenciador de tarefas (CSV)
-- ✔ Aplicação de clima
-- ✔ Exercícios de lógica em JavaScript
+Projetos desenvolvidos durante o programa **DEV Start**, com foco em lógica de programação e JavaScript
 
 ## 📊 Progresso no curso
 
