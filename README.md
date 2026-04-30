@@ -22,4 +22,4 @@ Projetos desenvolvidos durante o programa **DEV Start**, com foco em lógica de 
 Praticar e aprimorar habilidades em lógica de programação e desenvolvimento web.
 
 ## 📌 Autor
-Walisson Nunes
+Walisson Nunes Mota
